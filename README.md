@@ -1,6 +1,6 @@
 # 📝 FeedBack Collector
 
-> 🌐 **Live Site:** [https://feedback-collector.netlify.app](https://feedback-collector.netlify.app)  
+> 🌐 **Live Site:** [Click Me](https://feedbackcollectortest.netlify.app/)  
 
 ## ⚙️ Tech Stack
 ### **Frontend**
